@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I’m @aaguy-hue
+- 🔭 I'm currently working on [The Code Nook](https://www.thecodenook.org) and [Wizard Weather Wars](https://github.com/The-Code-Nook/Wizard-Weather-Wars)
+- 🌱 I’m currently learning about AI
 
 <!--
 **aaguy-hue/aaguy-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
