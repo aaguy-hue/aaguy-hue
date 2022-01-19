@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaguy-hue
-- 🔭 I'm currently working on [The Code Nook](https://www.thecodenook.org), [Wizard Weather Wars](https://github.com/The-Code-Nook/Wizard-Weather-Wars), and [8-Bit](https://github.com/The-Code-Nook/8-Bit)
+- 🔭 I'm currently working on [The Code Nook](https://www.thecodenook.org), [Wizard Weather Wars](https://github.com/The-Code-Nook/Wizard-Weather-Wars), and [8-Bit](https://github.com/aaguy-hue/8-Bit)
 - 🌱 I’m currently learning about AI
 
 <!--
