@@ -5,4 +5,6 @@
 - 🧑‍🏫 I'm creating a [new grading system](https://github.com/CSA-Coders-2025/CSA_Combined_Backend_Fork) for my teachers so students can peer grade each other and input grades online
 - 🔭 Some old projects of mine are [The Code Nook](https://www.thecodenook.org), [ImgGameLib](https://github.com/aaguy-hue/ImgGameLib), and [8-Bit](https://github.com/aaguy-hue/8-Bit).
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shuban-789)
+![aaguy-hue's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaguy-hue&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![aaguy-hue's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaguy-hue&theme=dracula&hide_border=true)
+![aaguy-hue's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaguy-hue&theme=dracula&show_icons=true&hide_border=true&layout=compact)
