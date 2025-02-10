@@ -7,4 +7,4 @@
 
 ![aaguy-hue's Stats](https://github-readme-stats.vercel.app/api?username=aaguy-hue&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![aaguy-hue's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaguy-hue&theme=dracula&hide_border=true)
-![aaguy-hue's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaguy-hue&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![aaguy-hue's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaguy-hue&theme=dracula&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,css,scss,html,astro,typescript,javascript,mdx)
